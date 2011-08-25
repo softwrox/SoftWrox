@@ -1,0 +1,2 @@
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Database\sql\debug\SoftWrox.Service.AuctionEngine.Database.dacpac
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Database\obj\Debug\SoftWrox.Service.AuctionEngine.Database.dacpac

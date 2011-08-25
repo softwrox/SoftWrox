@@ -1,0 +1,7 @@
+c:\users\stewart\documents\visual studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\obj\Debug\ResolveAssemblyReference.cache
+c:\users\stewart\documents\visual studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\bin\Debug\SoftWrox.Service.AuctionEngine.dll
+c:\users\stewart\documents\visual studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\bin\Debug\SoftWrox.Service.AuctionEngine.pdb
+c:\users\stewart\documents\visual studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\obj\Debug\SoftWrox.Service.AuctionEngine.dll
+c:\users\stewart\documents\visual studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\obj\Debug\SoftWrox.Service.AuctionEngine.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\bin\Debug\SoftWrox.Infrastructure.ServiceLocator.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine\bin\Debug\SoftWrox.Infrastructure.ServiceLocator.pdb

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CDD30345-7F61-47A7-9465-7BC8425B57DC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SoftWrox.Service.AuctionEngine</RootNamespace>
+    <AssemblyName>SoftWrox.Service.AuctionEngine</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SoftWrox.Infrastructure.ServiceLocator">
+      <HintPath>..\..\SoftWrox.Infrastructure.ServiceLocator\SoftWrox.Infrastructure.ServiceLocator\bin\Release\SoftWrox.Infrastructure.ServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuctionSettingsBuilder.cs" />
+    <Compile Include="Data\AuctionSettingsRepository.cs" />
+    <Compile Include="Data\SqlRepository.cs" />
+    <Compile Include="Data\IRepository.cs" />
+    <Compile Include="Data\DatabaseRepository.cs" />
+    <Compile Include="Interfaces\IBidSettings.cs" />
+    <Compile Include="Interfaces\IBidIdentity.cs" />
+    <Compile Include="Model\AuctionIdentity.cs" />
+    <Compile Include="Model\AuctionSettings.cs" />
+    <Compile Include="Model\Factories\AuctionServiceFactory.cs" />
+    <Compile Include="Model\Managers\AuctionServiceManager.cs" />
+    <Compile Include="Model\Managers\AuctionSettingsManager.cs" />
+    <Compile Include="Configuration\Configuration.cs" />
+    <Compile Include="Data\SqlMapper.cs" />
+    <Compile Include="Model\Auction.cs" />
+    <Compile Include="Model\Factories\AuctionFactory.cs" />
+    <Compile Include="AuctionService.cs" />
+    <Compile Include="Model\Enums\BiddingMethod.cs" />
+    <Compile Include="Model\Factories\BiddingMethodFactory.cs" />
+    <Compile Include="Interfaces\IBidManager.cs" />
+    <Compile Include="Interfaces\IAuctionContext.cs" />
+    <Compile Include="Interfaces\IAuctionServiceContext.cs" />
+    <Compile Include="Interfaces\IAuctionSettings.cs" />
+    <Compile Include="Data\Massive.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Model\Managers\SealedBidManager.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

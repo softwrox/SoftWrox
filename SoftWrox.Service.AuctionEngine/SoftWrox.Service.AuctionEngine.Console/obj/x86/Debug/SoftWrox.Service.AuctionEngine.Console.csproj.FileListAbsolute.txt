@@ -1,0 +1,8 @@
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\bin\Debug\SoftWrox.Service.AuctionEngine.Console.exe
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\bin\Debug\SoftWrox.Service.AuctionEngine.Console.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\bin\Debug\SoftWrox.Service.AuctionEngine.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\bin\Debug\SoftWrox.Service.AuctionEngine.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\obj\x86\Debug\SoftWrox.Service.AuctionEngine.Console.exe
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\obj\x86\Debug\SoftWrox.Service.AuctionEngine.Console.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Console\bin\Debug\SoftWrox.Service.AuctionEngine.Console.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Infrastructure.ServiceLocator\SoftWrox.Infrastructure.ServiceLocator\bin\Release\SoftWrox.Infrastructure.ServiceLocator.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Infrastructure.ServiceLocator\SoftWrox.Infrastructure.ServiceLocator\bin\Release\SoftWrox.Infrastructure.ServiceLocator.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Infrastructure.ServiceLocator\SoftWrox.Infrastructure.ServiceLocator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Infrastructure.ServiceLocator\SoftWrox.Infrastructure.ServiceLocator\obj\Release\SoftWrox.Infrastructure.ServiceLocator.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Infrastructure.ServiceLocator\SoftWrox.Infrastructure.ServiceLocator\obj\Release\SoftWrox.Infrastructure.ServiceLocator.pdb

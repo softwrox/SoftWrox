@@ -1,0 +1,11 @@
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Service.AuctionEngine.Tests.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Service.AuctionEngine.Tests.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Service.AuctionEngine.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\xunit.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Service.AuctionEngine.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\obj\Debug\SoftWrox.Service.AuctionEngine.Tests.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\obj\Debug\SoftWrox.Service.AuctionEngine.Tests.pdb
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Service.AuctionEngine.Tests.dll.config
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Infrastructure.ServiceLocator.dll
+C:\Users\Stewart\Documents\Visual Studio 2010\Projects\SoftWrox.Service.AuctionEngine\SoftWrox.Service.AuctionEngine.Tests\bin\Debug\SoftWrox.Infrastructure.ServiceLocator.pdb
